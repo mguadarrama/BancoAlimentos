@@ -24,6 +24,7 @@ namespace BancoAlimentos
 			// and attach an event to it
 
 			// This is a test for github sync
+			// this is a new test
 
 			Button button = FindViewById<Button> (Resource.Id.myButton);
 			
