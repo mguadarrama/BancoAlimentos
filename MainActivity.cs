@@ -22,6 +22,9 @@ namespace BancoAlimentos
 
 			// Get our button from the layout resource,
 			// and attach an event to it
+
+			// This is a test for github sync
+
 			Button button = FindViewById<Button> (Resource.Id.myButton);
 			
 			button.Click += delegate {
